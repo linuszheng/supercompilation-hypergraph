@@ -1,6 +1,6 @@
 import com.typesafe.sbt.SbtStartScript
 
-scalaVersion := "2.10.1"
+scalaVersion := "2.10.7"
 
 name := "graphsc"
 
